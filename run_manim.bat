@@ -1,0 +1,1 @@
+python3 -m manimtest.py test1 -pm
